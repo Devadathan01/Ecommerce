@@ -1,0 +1,9 @@
+npm init -- package .json
+npm i express -- node modules
+
+npm i cors --- installing cors for frontend and backend connections
+> npm i mongoose --intsall mongoose to connect backend with mongoDB
+
+dataservice -- logic
+
+index --requst 
